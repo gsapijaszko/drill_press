@@ -8,15 +8,15 @@ files for Marlin controller.
 
 ## Table
 
-Table, shown on picture below is based on (“Drill Press Table” 2007). It
-is fully parametric, overall dimensions are 720 x 420 mm, for details
-see `Spreadsheet` in `drill_press_table.FCStd` file. It contain 4 open
-slots for clamping, 2 T-track to position fence and to attach jigs and
-fixtures. Table is made from 2 layers of 18 mm birch plywood. Fence is
-made from 32 mm plywood, it provides a beefy support. The fence faces
-have T-tracks build in as well, it gives the possibility to attach
-hold-downs and stop blocks. Inserts below iron table are based on
-Woodsmith article (Copland 2005).
+Table, shown on picture below is inspired by (“Drill Press Table” 2007)
+article. The design is metric and fully parametric, overall dimensions
+are 720 x 420 mm (for details see `Spreadsheet` in
+`drill_press_table.FCStd` file). It contain 4 open slots for clamping, 2
+T-track to position fence and to attach jigs and fixtures. Table is made
+from 2 layers of 18 mm birch plywood. Fence is made from 32 mm plywood,
+it provides a beefy support. The fence faces have T-tracks build in as
+well, it gives the possibility to attach hold-downs and stop blocks.
+Inserts below iron table are based on Woodsmith article (Copland 2005).
 
 ![Table assembly](img/table_assembly.png)
 
