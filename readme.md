@@ -20,6 +20,14 @@ Inserts below iron table are based on Woodsmith article (Copland 2005).
 
 ![Table assembly](img/table_assembly.png)
 
+## Drill press base
+
+WIP
+
+## Cabinet
+
+WIP
+
 ## Licence
 
 The design is available under CERN Open Hardware Licence

@@ -19,6 +19,14 @@ Table, shown on picture below is inspired by [@DrillPressTable2007] article. The
 
 ![Table assembly](img/table_assembly.png)
 
+## Drill press base
+
+WIP
+
+## Cabinet
+
+WIP
+
 ## Licence
 
 The design is available under CERN Open Hardware Licence [OHL-P](https://ohwr.org/cern_ohl_p_v2.txt). All models/drawings/G-code were prepared using [FreeCAD](https://www.freecad.org/).
@@ -27,3 +35,9 @@ The design is available under CERN Open Hardware Licence [OHL-P](https://ohwr.or
 
 ::: {#refs}
 :::
+
+```{r echo=FALSE, message=FALSE}
+l <- list.files(pattern = "FCBak$")
+unlink(l)
+```
+
